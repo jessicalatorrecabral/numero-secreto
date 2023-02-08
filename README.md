@@ -9,7 +9,7 @@ Acesse o jogo <a href="https://numero-secreto-k03rwbbc9-jessicalatorrecabral.ver
 
 # Tecnologias utilizadas nesse projeto
 
--HTML;
--CSS;
--JavaScript;
--Web Speech API;
+* HTML
+* CSS
+* Javascript
+* Web Speech API
