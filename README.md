@@ -12,4 +12,4 @@ Acesse o jogo <a href="https://numero-secreto-k03rwbbc9-jessicalatorrecabral.ver
 * HTML
 * CSS
 * Javascript
-* Web Speech API
+* <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API">Web Speech API</a>
